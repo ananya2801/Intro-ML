@@ -1,0 +1,24 @@
+\contentsline {section}{\numberline {1}WHAT IS MACHINE LEARNING?}{3}{}%
+\contentsline {subsection}{\numberline {1.1}What it means to learn?}{3}{}%
+\contentsline {subsection}{\numberline {1.2}Work with Data}{3}{}%
+\contentsline {subsection}{\numberline {1.3}Apply machine learning.}{4}{}%
+\contentsline {subsection}{\numberline {1.4}Different types of machine learning}{4}{}%
+\contentsline {section}{\numberline {2}DIFFERENT WAYS A MACHINE LEARNS}{5}{}%
+\contentsline {subsection}{\numberline {2.1}Supervised}{5}{}%
+\contentsline {subsection}{\numberline {2.2}Unsupervised}{6}{}%
+\contentsline {subsection}{\numberline {2.3}Semi-supervised}{7}{}%
+\contentsline {subsection}{\numberline {2.4}Reinforcement}{7}{}%
+\contentsline {subsection}{\numberline {2.5}Q-Learning}{8}{}%
+\contentsline {section}{\numberline {3}POPULAR LEARNING ALGORITHMS}{8}{}%
+\contentsline {subsection}{\numberline {3.1}Problems that use machine learning}{8}{}%
+\contentsline {subsection}{\numberline {3.2}Decision trees}{8}{}%
+\contentsline {subsection}{\numberline {3.3}k nearest neighbor}{10}{}%
+\contentsline {subsection}{\numberline {3.4}k mean clustering}{11}{}%
+\contentsline {subsection}{\numberline {3.5}Regression}{12}{}%
+\contentsline {subsection}{\numberline {3.6}Naive Bayes}{12}{}%
+\contentsline {section}{\numberline {4}APPLYING ALGORITHMS}{13}{}%
+\contentsline {subsection}{\numberline {4.1}Follow the data}{13}{}%
+\contentsline {subsection}{\numberline {4.2}Fit the Data}{14}{}%
+\contentsline {subsection}{\numberline {4.3}Select the best algorithm}{15}{}%
+\contentsline {subsection}{\numberline {4.4}Ensemble Modeling}{15}{}%
+\contentsline {section}{\numberline {5}MACHINE LEARNING CHALLENGES}{15}{}%
